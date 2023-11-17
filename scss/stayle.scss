@@ -1,0 +1,11 @@
+$color: red;
+$fontsize: 18px;
+.text{
+     color: $color;
+     font-size: $fontsize;
+}
+span{
+     p{
+          color: chartreuse;
+     }
+}
